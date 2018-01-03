@@ -1,0 +1,20 @@
+{
+  "name": "freshwater-forests",
+  "version": "1.0.0",
+  "description": "Web app about planted freshwater aquariums.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinhubbard/Freshwater-Forests.git"
+  },
+  "author": "Kevin H",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinhubbard/Freshwater-Forests/issues"
+  },
+  "homepage": "https://github.com/kevinhubbard/Freshwater-Forests#readme"
+}
